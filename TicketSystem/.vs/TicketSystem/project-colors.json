@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "585b377c-c55f-4448-b3b3-6b0f256228ca": {
+      "ProjectGuid": "585b377c-c55f-4448-b3b3-6b0f256228ca",
+      "DisplayName": "TicketSystem",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,16 @@
+C:\Users\audri\Documents\Code_Academy_mokymai\lesson7\TicketSystem\TicketSystem\TicketSystem\bin\Debug\net5.0\TicketSystem.exe
+C:\Users\audri\Documents\Code_Academy_mokymai\lesson7\TicketSystem\TicketSystem\TicketSystem\bin\Debug\net5.0\TicketSystem.deps.json
+C:\Users\audri\Documents\Code_Academy_mokymai\lesson7\TicketSystem\TicketSystem\TicketSystem\bin\Debug\net5.0\TicketSystem.runtimeconfig.json
+C:\Users\audri\Documents\Code_Academy_mokymai\lesson7\TicketSystem\TicketSystem\TicketSystem\bin\Debug\net5.0\TicketSystem.runtimeconfig.dev.json
+C:\Users\audri\Documents\Code_Academy_mokymai\lesson7\TicketSystem\TicketSystem\TicketSystem\bin\Debug\net5.0\TicketSystem.dll
+C:\Users\audri\Documents\Code_Academy_mokymai\lesson7\TicketSystem\TicketSystem\TicketSystem\bin\Debug\net5.0\ref\TicketSystem.dll
+C:\Users\audri\Documents\Code_Academy_mokymai\lesson7\TicketSystem\TicketSystem\TicketSystem\bin\Debug\net5.0\TicketSystem.pdb
+C:\Users\audri\Documents\Code_Academy_mokymai\lesson7\TicketSystem\TicketSystem\TicketSystem\obj\Debug\net5.0\TicketSystem.csproj.AssemblyReference.cache
+C:\Users\audri\Documents\Code_Academy_mokymai\lesson7\TicketSystem\TicketSystem\TicketSystem\obj\Debug\net5.0\TicketSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\audri\Documents\Code_Academy_mokymai\lesson7\TicketSystem\TicketSystem\TicketSystem\obj\Debug\net5.0\TicketSystem.AssemblyInfoInputs.cache
+C:\Users\audri\Documents\Code_Academy_mokymai\lesson7\TicketSystem\TicketSystem\TicketSystem\obj\Debug\net5.0\TicketSystem.AssemblyInfo.cs
+C:\Users\audri\Documents\Code_Academy_mokymai\lesson7\TicketSystem\TicketSystem\TicketSystem\obj\Debug\net5.0\TicketSystem.csproj.CoreCompileInputs.cache
+C:\Users\audri\Documents\Code_Academy_mokymai\lesson7\TicketSystem\TicketSystem\TicketSystem\obj\Debug\net5.0\TicketSystem.dll
+C:\Users\audri\Documents\Code_Academy_mokymai\lesson7\TicketSystem\TicketSystem\TicketSystem\obj\Debug\net5.0\ref\TicketSystem.dll
+C:\Users\audri\Documents\Code_Academy_mokymai\lesson7\TicketSystem\TicketSystem\TicketSystem\obj\Debug\net5.0\TicketSystem.pdb
+C:\Users\audri\Documents\Code_Academy_mokymai\lesson7\TicketSystem\TicketSystem\TicketSystem\obj\Debug\net5.0\TicketSystem.genruntimeconfig.cache
